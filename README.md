@@ -18,10 +18,14 @@
 
 
 　　＜動画内の実行手順＞
-       　  $ roscore
-       　  $ rosrun mypkg count.py
-           $ rosrun mypkg twice.py
-           $ rostopic echo /twice
+  
+       $ roscore
+       
+       $ rosrun mypkg count.py
+       
+       $ rosrun mypkg twice.py
+       
+       $ rostopic echo /twice
 
 # 実行結果
 　以下のリンクからyoutubeの動画がご視聴出来ます。
