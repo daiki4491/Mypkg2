@@ -13,6 +13,7 @@
 | OS  | Ubuntu20.04server  |
 |---|---|
 |  Hardware |   Rasberry Pi 4  |
+|   ROS | ROS noetic |
 
 # 用意したもの
 
